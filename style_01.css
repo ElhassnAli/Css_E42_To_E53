@@ -1,0 +1,14 @@
+div{
+  width: 200px;
+  height: 200px;
+  background-color: #eee;
+  margin: 40px auto;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ border-radius: 50%;
+ font-weight: bold;
+ font-size: 48px;
+ color: orangered;
+ box-shadow: -10px 0 0 orangered , 10px 0 0 deepskyblue;
+}
